@@ -10,7 +10,7 @@ The program supports three browsers: Chrome, Edge and Firefox. Before running th
 webdriver for Chrome: https://sites.google.com/a/chromium.org/chromedriver/home  
 webdriver for Microsoft Edge: https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/  
 webdriver for Firefox: https://github.com/mozilla/geckodriver  
-    The webdriver file can be placed in two places:  
+    The webdriver file can be placed in either of the following places:  
 1. Place it in the same directory as the program  
 2. Put it in any directory in Path  
   
