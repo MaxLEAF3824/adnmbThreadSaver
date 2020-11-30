@@ -6,9 +6,9 @@ This is a simple python script, which saves threads from adnmb.com, it's based o
     
 [Preparation]:  
     The program supports three browsers: Chrome, Edge and Firefox. Before running the program, you need to download the corresponding webdriver file.  
-1. webdriver for Chrome: https://sites.google.com/a/chromium.org/chromedriver/home  
-2. webdriver for Microsoft Edge: https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/  
-3. webdriver for Firefox: https://github.com/mozilla/geckodriver  
+webdriver for Chrome: https://sites.google.com/a/chromium.org/chromedriver/home  
+webdriver for Microsoft Edge: https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/  
+webdriver for Firefox: https://github.com/mozilla/geckodriver  
     The webdriver file can be placed in two places:  
 1. Place it in the same directory as the program  
 2. Put it in any directory in Path  
