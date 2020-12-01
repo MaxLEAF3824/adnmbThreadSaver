@@ -11,7 +11,7 @@ webdriver for Microsoft Edge: https://developer.microsoft.com/en-us/microsoft-ed
 webdriver for Firefox: https://github.com/mozilla/geckodriver  
 The webdriver file can be put in either of the two following places:  
 1. Put it in the same directory as the program  
-2. Put it in any directory in Path  
+2. Put it in any directory in PATH  
   
 [How to use it]:  
 To save a thread from adnmb.com, the thread number is the only thing you need. An adnmb account is not necessary, But you are only able to save the first 90 pages(891 replies) of the webpage at most, if you are not logged in.  
