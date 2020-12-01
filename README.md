@@ -14,7 +14,7 @@ The webdriver file can be put in either of the two following places:
 2. Put it in any directory in PATH  
   
 [How to use it]:  
-To save a thread from adnmb.com, the thread number is the only thing you need. An adnmb account is not necessary, But you are only able to save the first 90 pages(891 replies) of the webpage at most, if you are not logged in.  
+To save a thread from adnmb.com, the thread number is the only thing you need. An adnmb account is not necessary, But you are only able to save the first 90 pages(891 replies) at most if you are not logged in.  
 
 [Features]:  
 1. "PO only mode":Only save content from the publisher of the thread.  
