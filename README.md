@@ -19,4 +19,4 @@ To save a thread from adnmb.com, you only need a thread number. An adnmb account
 [Features]:  
 1. "PO only mode":Only save content that is posted by the PO of the thread.  
 2. Save the author and time info or not? It's up to you: You can choose whether to save the time and publisher info or not.  
-3. Shortcut "user_pwd.txt": you need a "user_pwd.txt" which have your adnmb email&password saved in two simple lines, put it in the same directory as the program and avoid typing your email and password everytime you log in.  
+3. Shortcut "user_pwd.txt": you can use a "user_pwd.txt" which have your adnmb email&password saved in two simple lines to avoid typing your email and password everytime you log in.You need to put the txt file in the same directory as the program.  
