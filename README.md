@@ -2,7 +2,7 @@
 
 [adnmbThreadSaver in a nutshell]:  
 adnmb.com is an anonymous forum that is similar to 4chan and 2ch. Saving threads from this website could be very inconvenient.  
-This is a simple python script, which saves threads from adnmb.com, it's based on selenium so you a corresponding webdriver for your own web browser. This repo includes the source code and an executable file.(Runing the exe requires an extra webdriver file, which is expected to be downloaded by yourself.)  
+This is a simple python script, which saves threads from adnmb.com, it's based on selenium so you a corresponding webdriver for your own web browser. This repo includes the source code and an executable file.
     
 [Preparation]:  
 The program supports three browsers: Chrome, Edge and Firefox. Before running the program, you need to download the corresponding webdriver file.  
